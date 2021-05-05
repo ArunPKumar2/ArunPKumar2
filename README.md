@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArunPKumar2
-- 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... NooB
+- 👀 I’m interested in ... Mobile Programming
+- 🌱 I’m currently learning ... Custom ROM Flashing
+- 💞️ I’m looking to collaborate on ... Free Course
 - 📫 How to reach me ... arunp.offl/insta
 
 <!---
